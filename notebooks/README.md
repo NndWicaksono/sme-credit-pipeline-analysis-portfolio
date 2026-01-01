@@ -153,4 +153,4 @@ File ini digunakan sebagai sumber data utama pada Power BI.
 
 ## 🔒 Catatan Etika
 Seluruh data merupakan **data simulasi** dan tidak merepresentasikan data riil institusi perbankan manapun.
-Pemahaman proses bisnis didasarkan pada **observasi terbatas** selama masa magang di SME Business Center (SBC).
+Pemahaman proses bisnis didasarkan pada **observasi terbatas** selama masa magang di Unit Kredit SME.
