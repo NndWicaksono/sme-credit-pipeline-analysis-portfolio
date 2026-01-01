@@ -61,6 +61,8 @@ Dashboard ini digunakan untuk melihat variasi performa pipeline kredit berdasark
 ### Preview Dashboard
 ![Dashboard Regional](images/Dashboard-2(Regional).png)
 
+📥 File Dashboard:
+- [Download Dashboard (.pbix)](dashboard/Dashboard-SME-credit-pipeline.pbix)
 ---
 
 ## 💡 Rekomendasi Bisnis
